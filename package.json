@@ -1,0 +1,24 @@
+{
+  "name": "api-cacher",
+  "version": "0.0.1",
+  "description": "cache responses from APIs and re-use them",
+  "main": "cacher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwickens/npm-api-cacher.git"
+  },
+  "keywords": [
+    "api",
+    "cache",
+    "json"
+  ],
+  "author": "Jonathan R Wickens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwickens/npm-api-cacher/issues"
+  },
+  "homepage": "https://github.com/jwickens/npm-api-cacher#readme"
+}
