@@ -1,7 +1,7 @@
 {
-  "name": "api-cacher",
+  "name": "api-fs-cacher",
   "version": "0.0.1",
-  "description": "cache responses from APIs and re-use them",
+  "description": "cache responses from APIs on the filesystem and re-use them",
   "main": "cacher.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
